@@ -93,12 +93,12 @@ a:hover {
   opacity: 0.9
 }
 
-.logo-dark {
-  color: #222;
+.logo-light {
+  color: #a7dce0;
 }
 
-.logo-light {
-  color: rgba(34, 34, 34, 0.4);
+.logo-dark {
+  color: #6cc5cb;
 }
 
 /* Larger desktopss */
