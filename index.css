@@ -49,6 +49,7 @@ h2 {
   line-height: 1;
   text-align: left;
   white-space: nowrap;
+  color: #6cc5cb;
   margin: 0;
   padding: 0;
 }
@@ -90,6 +91,7 @@ a:hover {
 }
 
 .fab:hover {
+  color: #a7dce0;
   opacity: 0.9
 }
 
