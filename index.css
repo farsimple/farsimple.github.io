@@ -60,7 +60,8 @@ a {
 }
 
 a:hover {
-  color: rgba(255, 255, 255, 0.9);
+  color: #a7dce0;
+  opacity: 0.9;
   text-decoration: underline;
 }
 
@@ -92,7 +93,7 @@ a:hover {
 
 .fab:hover {
   color: #a7dce0;
-  opacity: 0.9
+  opacity: 0.9;
 }
 
 .logo-light {
