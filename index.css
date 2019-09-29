@@ -93,6 +93,14 @@ a:hover {
   opacity: 0.9
 }
 
+.logo-dark {
+  color: #e8e8e8;
+}
+
+.logo-light {
+  color: #f8f8f8;
+}
+
 /* Larger desktopss */
 
 @media screen and (min-width: 2400px) {
