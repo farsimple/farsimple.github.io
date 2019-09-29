@@ -16,7 +16,7 @@ body {
   color: #fff;
   display: flex;
   align-items: center;
-  background-color: #4780ae;
+  background-color: #000;
 }
 
 img {
@@ -27,13 +27,13 @@ img {
 ::selection {
   text-shadow: none;
   color: #fff;
-  background-color: #4780ae;
+  background-color: #000;
 }
 
 ::-moz-selection {
   text-shadow: none;
   color: #fff;
-  background-color: #4780ae;
+  background-color: #000;
 }
 
 h1 {
@@ -94,11 +94,11 @@ a:hover {
 }
 
 .logo-dark {
-  color: #e8e8e8;
+  color: #222;
 }
 
 .logo-light {
-  color: #f8f8f8;
+  color: rgba(34, 34, 34, 0.4);
 }
 
 /* Larger desktopss */
