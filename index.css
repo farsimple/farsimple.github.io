@@ -46,7 +46,7 @@ h1 {
 
 h2 {
   font-weight: normal;
-  line-height: 1.5;
+  line-height: 1;
   text-align: left;
   white-space: nowrap;
   margin: 0;
@@ -100,11 +100,11 @@ a:hover {
     font-size: 24em;
   }
   h2 {
-    font-size: 6em;
+    font-size: 4.8em;
   }
   .fab {
     margin: 0 12px 0 0;
-    font-size: 2.8em;
+    font-size: 4.8em;
   }
 }
 
@@ -115,11 +115,11 @@ a:hover {
     font-size: 12em;
   }
   h2 {
-    font-size: 3em;
+    font-size: 2.4em;
   }
   .fab {
     margin: 0 6px 0 0;
-    font-size: 1.4em;
+    font-size: 2.4em;
   }
 }
 
@@ -130,11 +130,11 @@ a:hover {
     font-size: 10em;
   }
   h2 {
-    font-size: 2.5em;
+    font-size: 2em;
   }
   .fab {
     margin: 0 6px 0 0;
-    font-size: 1.4em;
+    font-size: 2em;
   }
 }
 
