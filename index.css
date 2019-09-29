@@ -13,7 +13,7 @@ html, body {
 
 body {
   font-family: 'Helvetica', sans-serif;
-  color: #fff;
+  color: #a7dce0;
   display: flex;
   align-items: center;
   background-color: #000;
@@ -26,13 +26,13 @@ img {
 
 ::selection {
   text-shadow: none;
-  color: #fff;
+  color: #a7dce0;
   background-color: #000;
 }
 
 ::-moz-selection {
   text-shadow: none;
-  color: #fff;
+  color: #a7dce0;
   background-color: #000;
 }
 
@@ -54,7 +54,7 @@ h2 {
 }
 
 a {
-  color: #fff;
+  color: #a7dce0;
   text-decoration: none;
 }
 
